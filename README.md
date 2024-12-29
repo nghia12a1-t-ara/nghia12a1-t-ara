@@ -6,7 +6,7 @@ Embedded - Lập trình điện tử Channel
 
 I'm Nghia, a passionate individual in technology and embedded systems. I am always eager to learn and share knowledge about embedded systems with the community to create high-quality products.
 I enjoy technical work and training. I have worked with AUTOSAR and Home Applience technologies at technology companies - [See my Professional Career at LinkedIn](https://www.linkedin.com/in/nghia-embedded/) and [My Training Career](https://www.laptrinhdientu.com/2024/08/nhat-ky-cua-Nghia-trainer-profile.html).\
-* My Blog Website : https://www.laptrinhdientu.com/\
+* My Blog Website : https://www.laptrinhdientu.com/
 * My Youtube Channel : https://www.youtube.com/@laptrinhdientu
 * 🌍  I'm based in HaNoi - VietNam
 * ✉️  You can contact me at [nguyenvannghia2914@gmail.com](mailto:nguyenvannghia2914@gmail.com)
