@@ -29,13 +29,12 @@ I enjoy technical work and training. I have worked with AUTOSAR and Home Applien
 
 <div width="100%" align="center"><a href="https://github.com/nghia12a1-t-ara/STM32_myDevelopment_Framework" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nghia12a1-t-ara&repo=STM32_myDevelopment_Framework&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nghia12a1-t-ara/AVR_Microcontrollers" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nghia12a1-t-ara&repo=AVR_Microcontrollers&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/nghia12a1-t-ara/Embedded_TaaraTools" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nghia12a1-t-ara&repo=Embedded_TaaraTools&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nghia12a1-t-ara/ARM_Software_Test" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nghia12a1-t-ara&repo=ARM_Software_Test&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/nghia12a1-t-ara/ESP8266" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nghia12a1-t-ara&repo=ESP8266&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nghia12a1-t-ara/DataStructure_Algorithm_in_C" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nghia12a1-t-ara&repo=DataStructure_Algorithm_in_C&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br /><br />
 
 ### Support Me
 
