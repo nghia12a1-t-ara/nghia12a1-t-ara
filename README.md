@@ -35,9 +35,9 @@ I enjoy technical work and training. I have worked with AUTOSAR and Home Applien
 
 <br /><br /><br /><br />
 <br /><br /><br /><br />
-<br /><br /><br /><br />
+<br /><br />
 
-=============================================================================================================================
+------------------------------------
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
