@@ -5,7 +5,7 @@ Embedded - Lập trình điện tử Channel
 ------------------------------------
 
 I'm Nghia, a passionate individual in technology and embedded systems. I am always eager to learn and share knowledge about embedded systems with the community to create high-quality products.
-I enjoy technical work and training. I have worked with AUTOSAR and Home Applience technologies at technology companies - [See my Professional Career at LinkedIn](https://www.linkedin.com/in/nghia-embedded/) and [My Training Career](https://www.laptrinhdientu.com/2024/08/nhat-ky-cua-Nghia-trainer-profile.html).\
+I enjoy technical work and training. I have worked with AUTOSAR and Home Applience technologies at technology companies - [See my Professional Career at LinkedIn](https://www.linkedin.com/in/nghia-embedded/) and [My Training Career](https://www.laptrinhdientu.com/2024/08/nhat-ky-cua-Nghia-trainer-profile.html).
 * My Blog Website : https://www.laptrinhdientu.com/
 * My Youtube Channel : https://www.youtube.com/@laptrinhdientu
 * 🌍  I'm based in HaNoi - VietNam
@@ -34,7 +34,10 @@ I enjoy technical work and training. I have worked with AUTOSAR and Home Applien
 <div width="100%" align="center"><a href="https://github.com/nghia12a1-t-ara/ESP8266" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nghia12a1-t-ara&repo=ESP8266&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nghia12a1-t-ara/DataStructure_Algorithm_in_C" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nghia12a1-t-ara&repo=DataStructure_Algorithm_in_C&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
 
+=============================================================================================================================
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
